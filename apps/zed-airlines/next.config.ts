@@ -23,12 +23,6 @@ const nextConfig: NextConfig = {
   },
   turbopack: {
     root: monorepoRoot,
-    rules: {
-      "*.css": {
-        loaders: ["@tailwindcss/turbopack"],
-        as: "*.css",
-      },
-    },
   },
 };
 
