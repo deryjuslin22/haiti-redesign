@@ -1,0 +1,450 @@
+{
+  "meta": {
+    "title": "ZED Airlines — Flights to Haiti and the Americas",
+    "description": "Nine nonstop routes between Haiti, the United States, Canada and the Dominican Republic. Cap-Haïtien, Port-au-Prince, Miami, Fort Lauderdale and New York."
+  },
+  "nav": {
+    "destinations": "Destinations",
+    "travel": "Travel",
+    "about": "About",
+    "help": "Help",
+    "book": "Book",
+    "search": "Search flights",
+    "status": "Flight status",
+    "manage": "Manage trip",
+    "where": "Where we fly",
+    "baggage": "Baggage",
+    "checkin": "Check-in",
+    "documents": "Documents",
+    "assistance": "Assistance",
+    "onboard": "Onboard",
+    "contact": "Contact",
+    "faq": "Frequently asked questions"
+  },
+  "common": {
+    "demo": "",
+    "readMore": "Learn more",
+    "findFlights": "Find flights",
+    "allRoutes": "All routes",
+    "nonstop": "Nonstop",
+    "oneWayAdult": "One way per adult, taxes and fees included",
+    "fromPrice": "from",
+    "lowestOn": "lowest on {date}",
+    "call": "Call",
+    "write": "Email",
+    "skip": "Skip to content",
+    "language": "Language",
+    "currency": "Currency",
+    "usdName": "US Dollar",
+    "htgName": "Gourde",
+    "currencyNote": "Indicative display: 1 USD = 132 HTG. Published payment is settled in US dollars.",
+    "nowSelling": "Now selling",
+    "winter": "Winter schedule",
+    "operatedBy": "Operated by World Atlantic Charter",
+    "aircraft": "McDonnell Douglas MD-83",
+    "menu": "Menu",
+    "close": "Close",
+    "phoneLabel": "Phone",
+    "included": "Included",
+    "fee": "For a fee",
+    "freeChange": "Free, a fare difference may apply",
+    "paidChange": "$100 per passenger + fare difference",
+    "noRefund": "No, except the 24-hour rule",
+    "ourCancel": "Full refund or another flight",
+    "changeDeadline": "Up to 24 hours before departure"
+  },
+  "airports": {
+    "CAP": {
+      "city": "Cap-Haïtien",
+      "country": "Haiti",
+      "name": "Hugo Chávez International Airport"
+    },
+    "PAP": {
+      "city": "Port-au-Prince",
+      "country": "Haiti",
+      "name": "Toussaint Louverture International Airport"
+    },
+    "CYA": {
+      "city": "Les Cayes",
+      "country": "Haiti",
+      "name": "Antoine-Simon Airport"
+    },
+    "MIA": {
+      "city": "Miami",
+      "country": "United States",
+      "name": "Miami International Airport"
+    },
+    "FLL": {
+      "city": "Fort Lauderdale",
+      "country": "United States",
+      "name": "Fort Lauderdale-Hollywood International Airport"
+    },
+    "JFK": {
+      "city": "New York",
+      "country": "United States",
+      "name": "John F. Kennedy International Airport"
+    },
+    "BOS": {
+      "city": "Boston",
+      "country": "United States",
+      "name": "Logan International Airport"
+    },
+    "YUL": {
+      "city": "Montreal",
+      "country": "Canada",
+      "name": "Montréal-Trudeau International Airport"
+    },
+    "SDQ": {
+      "city": "Santo Domingo",
+      "country": "Dominican Republic",
+      "name": "Las Américas International Airport"
+    },
+    "PUJ": {
+      "city": "Punta Cana",
+      "country": "Dominican Republic",
+      "name": "Punta Cana International Airport"
+    },
+    "STI": {
+      "city": "Santiago",
+      "country": "Dominican Republic",
+      "name": "Cibao International Airport"
+    }
+  },
+  "search": {
+    "from": "From",
+    "to": "To",
+    "trip": "Trip type",
+    "round": "Round trip",
+    "one": "One way",
+    "depart": "Depart",
+    "return": "Return",
+    "passengers": "Passengers",
+    "passengerCount": "{count, plural, one {# passenger} other {# passengers}}",
+    "find": "Search",
+    "swap": "Swap departure and arrival",
+    "sameAirport": "Choose two different airports.",
+    "needDepart": "Add a departure date.",
+    "needReturn": "Add a return date.",
+    "returnOrder": "The return must follow the departure.",
+    "chooseDate": "Choose a date",
+    "prevMonth": "Previous month",
+    "nextMonth": "Next month",
+    "demo": ""
+  },
+  "home": {
+    "line1": "Haiti,",
+    "line2": "Closer.",
+    "wingAlt": "Airplane wing above the clouds",
+    "lede": "Nine nonstop routes. Four countries.",
+    "stats": "9 nonstop routes · 4 countries",
+    "storiesTitle": "Three gateways.",
+    "storiesLede": "All via Cap-Haïtien.",
+    "seeFlights": "See flights",
+    "haitiTitle": "The territory.",
+    "haitiLede": "CAP, PAP and CYA.",
+    "capBody": "Miami in 2 h. New York in 4 h.",
+    "capAlt": "Notre-Dame cathedral in Cap-Haïtien",
+    "papBody": "Domestic. From $222.99 on November 9.",
+    "papAlt": "The MUPANAH gardens in Port-au-Prince",
+    "cyaBody": "No published schedule.",
+    "cyaAlt": "The Villa John botanical garden in Les Cayes",
+    "faresTitle": "Fares.",
+    "faresLede": "One way per adult. Taxes and fees included.",
+    "networkTitle": "The network.",
+    "networkLede": "Eight cities. Schedules up to 330 days.",
+    "from": "From",
+    "to": "To",
+    "time": "Typical duration",
+    "beforeTitle": "Before you fly.",
+    "checkinTitle": "Check-in",
+    "checkinBody": "Opens 24 h before. Closes 60 min before.",
+    "bagsTitle": "Baggage",
+    "bagsBody": "Carry-on included. Checked bags depend on the fare.",
+    "docsTitle": "Travel documents",
+    "docsBody": "Passport valid for six months.",
+    "charterKicker": "Charter and groups",
+    "charterTitle": "Groups.",
+    "charterBody": "Caribbean, United States, Canada. Above 9 passengers, a direct quote.",
+    "charterCta": "Request a quote",
+    "missionKicker": "The airline",
+    "missionTitle": "The mission.",
+    "missionBody": "Connect Haiti to the world, and bring families closer.",
+    "missionCta": "Mission and vision"
+  },
+  "stories": {
+    "miami": {
+      "kicker": "Miami · MIA",
+      "title": "Miami.",
+      "body": "2 h, twice a week. Tuesday, out and back the same day. Thursday continues to New York.",
+      "imageAlt": "Palm trees and Miami light"
+    },
+    "fort-lauderdale": {
+      "kicker": "Fort Lauderdale · FLL",
+      "title": "Fort Lauderdale.",
+      "body": "Tuesday, out and back the same day. 2 h.",
+      "imageAlt": "Coast and turquoise water"
+    },
+    "new-york": {
+      "kicker": "New York · JFK",
+      "title": "New York.",
+      "body": "4 h. Friday morning south, Thursday afternoon north.",
+      "imageAlt": "New York skyline at dawn"
+    }
+  },
+  "destinationsPage": {
+    "metaTitle": "Where we fly",
+    "kicker": "Network",
+    "title": "Eight cities, four countries.",
+    "lede": "Eight cities, all nonstop.",
+    "domesticTitle": "Domestic link",
+    "domesticBody": "Port-au-Prince and Cap-Haïtien. From $222.99 on November 9.",
+    "gatewaysTitle": "From the United States",
+    "gatewaysBody": "Miami, Fort Lauderdale and New York."
+  },
+  "routePage": {
+    "metaTitle": "{from} to {to}",
+    "about": "About this route",
+    "facts": "Route facts",
+    "fromAirport": "From",
+    "toAirport": "To",
+    "block": "Scheduled block time",
+    "distance": "Distance",
+    "stops": "Stops",
+    "operator": "Operated by",
+    "upcoming": "Upcoming published departures",
+    "before": "Before you fly",
+    "checkinLine": "Check-in opens 24 hours before departure and closes 60 minutes before.",
+    "arriveLine": "Arrive at the airport at least 3 hours before an international departure.",
+    "passportLine": "Carry a passport valid for at least six months beyond your travel date.",
+    "nameLine": "Names on the booking must match your travel document exactly.",
+    "faresLine": "Standard and Flex. Carry-on included. Checked bags, seat and changes depend on the fare.",
+    "empty": "No published departure in this direction.",
+    "km": "{km} km"
+  },
+  "storiesBody": {
+    "miami": "MIA–CAP, 2 h, about 1,020 km.",
+    "fort-lauderdale": "FLL–CAP, 2 h, about 1,060 km.",
+    "new-york": "JFK–CAP, 4 h, about 2,400 km."
+  },
+  "travelPage": {
+    "metaTitle": "Travel information",
+    "title": "The trip.",
+    "lede": "Check-in, baggage, documents and onboard.",
+    "baggageLede": "Carry-on and checked bags, weight limits and fees.",
+    "checkinLede": "When it opens and closes, and what to have ready.",
+    "documentsLede": "Passport, visa and a name that matches.",
+    "assistanceLede": "Wheelchair, reduced mobility and medical clearance.",
+    "onboardLede": "Fare families, comfort and what is included."
+  },
+  "topics": {
+    "baggage": {
+      "title": "Baggage",
+      "lede": "Carry-on included. Checked bags depend on the fare.",
+      "carryTitle": "Carry-on",
+      "carryBody": "Up to 7 kg, 55 × 35 × 25 cm, plus a personal item.",
+      "checkedTitle": "Checked baggage by fare",
+      "extraTitle": "Additional and overweight bags",
+      "extraBag": "Each additional checked bag",
+      "overweight": "Overweight, above 23 kg",
+      "infantTitle": "Travelling with an infant",
+      "infantBody": "10 kg. Folding stroller free.",
+      "lithium": "Batteries and e-cigarettes: cabin only."
+    },
+    "check-in": {
+      "title": "Check-in and airport",
+      "lede": "Opens 24 h before departure.",
+      "step": "Step",
+      "when": "Before departure",
+      "opens": "Check-in opens",
+      "arrive": "Recommended arrival",
+      "closes": "Check-in closes",
+      "gate": "Boarding gate closes",
+      "opensValue": "24 hours",
+      "arriveValue": "3 hours",
+      "closesValue": "60 minutes",
+      "gateValue": "20 minutes",
+      "readyTitle": "What to have ready",
+      "ready1": "Your passport, valid for at least six months beyond your travel date.",
+      "ready2": "Your booking reference.",
+      "ready3": "Any visa or entry document required for your destination.",
+      "late": "After check-in closes, you cannot be accepted."
+    },
+    "documents": {
+      "title": "Travel documents",
+      "lede": "Every traveller needs their own document.",
+      "passportTitle": "Passports",
+      "passportBody": "Valid six months after travel. The name must match.",
+      "visaTitle": "Visas",
+      "visaBody": "Depends on nationality and destination. Check with the consulate.",
+      "infant": "Infants travel with their own passport as well."
+    },
+    "assistance": {
+      "title": "Special assistance",
+      "lede": "Tell us at least 48 h ahead.",
+      "listTitle": "What we can arrange",
+      "item1": "Wheelchair, from the terminal to the door.",
+      "item2": "Priority boarding.",
+      "item3": "Seating suited to reduced mobility.",
+      "item4": "A mobility aid, at no charge.",
+      "howTitle": "How to request it",
+      "howBody": "Call +1 305-607-7143 or email info@zedairlines.com.",
+      "medicalTitle": "Medical clearance",
+      "medicalBody": "Recent surgery or onboard oxygen: contact us early."
+    },
+    "onboard": {
+      "title": "Onboard",
+      "lede": "Three fares. Carry-on included.",
+      "family": "Fare family",
+      "carry": "Carry-on",
+      "checked": "Checked bags",
+      "seat": "Seat selection",
+      "changes": "Changes",
+      "deadline": "Change deadline",
+      "refund": "Refund if you cancel",
+      "ourCancel": "If we cancel your flight",
+      "bags": "{count} × 23 kg",
+      "aircraft": "MD-83, operated by World Atlantic Charter.",
+      "rules": "Non-refundable, except within 24 h if booked 7 days ahead. If we cancel: a refund or another flight."
+    }
+  },
+  "families": {
+    "standard": "Economy Standard",
+    "flex": "Economy Flex",
+    "business": "Business"
+  },
+  "aboutPage": {
+    "metaTitle": "About",
+    "kicker": "ZED Airlines",
+    "title": "The airline.",
+    "lede": "Mission, vision and objectives.",
+    "missionTitle": "Our mission",
+    "mission": "Connect Haiti to the world, safely and affordably.",
+    "visionTitle": "Our vision",
+    "vision": "A trusted Haitian airline, a bridge to its diaspora.",
+    "objectivesTitle": "Our objectives",
+    "objectives": [
+      "A domestic, regional and international network.",
+      "Safety first.",
+      "Punctuality, reliability, comfort.",
+      "Link Haiti with its diaspora.",
+      "Support tourism, business and trade.",
+      "An airline able to compete.",
+      "Modernize booking and operations.",
+      "Develop Haitian talent.",
+      "Lasting partnerships.",
+      "Represent Haiti with care."
+    ]
+  },
+  "helpPage": {
+    "metaTitle": "Help",
+    "kicker": "We are here",
+    "title": "Talk to us.",
+    "lede": "24 hours a day, 7 days a week.",
+    "regions": {
+      "us": "United States",
+      "ht": "Haiti",
+      "br": "Brazil"
+    },
+    "faqTitle": "Frequently asked questions",
+    "statusTitle": "Flight status",
+    "statusBody": "By flight number or route, in local time. If we cancel: a refund or another flight.",
+    "manageTitle": "Manage a trip",
+    "manageBody": "Reference starting with ZED, plus the last name. Changes up to 24 h before: $100 on Standard, free on Flex.",
+    "groupTitle": "Groups and charters",
+    "groupBody": "Up to 9 passengers. Above that, call +1 305-607-7143.",
+    "faq": [
+      {
+        "q": "Where is my reference?",
+        "a": "The code starting with ZED, in the confirmation email."
+      },
+      {
+        "q": "Can I change my flight?",
+        "a": "Up to 24 h before. $100 on Standard, free on Flex, plus any fare difference."
+      },
+      {
+        "q": "Are tickets refundable?",
+        "a": "Not if you cancel. Exception: within 24 h, when booked at least 7 days ahead. If we cancel: a refund or another flight."
+      },
+      {
+        "q": "How do children travel?",
+        "a": "Under 2: 10% of the fare, on a lap. Ages 2 to 11: 75%, with a seat."
+      },
+      {
+        "q": "Is a seat included?",
+        "a": "Yes on Flex. On Standard, it is a fee."
+      },
+      {
+        "q": "Which payments?",
+        "a": "Cards. PIX to or from Brazil."
+      },
+      {
+        "q": "Prices in gourdes?",
+        "a": "Yes. 132 HTG to 1 USD. Payment is in dollars."
+      },
+      {
+        "q": "How do I request assistance?",
+        "a": "48 h ahead, at +1 305-607-7143, with your reference."
+      }
+    ]
+  },
+  "flightsPage": {
+    "metaTitle": "Flights",
+    "kicker": "Results",
+    "title": "Your flights.",
+    "lede": "Add a date.",
+    "outbound": "Outbound",
+    "return": "Return",
+    "passengers": "{count, plural, one {# passenger} other {# passengers}}",
+    "none": "No departure on this date.",
+    "next": "Next departures",
+    "unknown": "This route is not scheduled.",
+    "browse": "See the network",
+    "noSale": "",
+    "edit": "Edit search",
+    "match": "Departs {date}"
+  },
+  "legal": {
+    "carriage": {
+      "title": "Conditions of carriage",
+      "body": "Travel remains subject to the carrier’s conditions. Fares, schedules and baggage may change."
+    },
+    "privacy": {
+      "title": "Privacy",
+      "body": "No passport, payment or account is stored here."
+    },
+    "terms": {
+      "title": "Terms of use",
+      "body": "Using this site does not create a contract of carriage."
+    },
+    "cookies": {
+      "title": "Cookies",
+      "body": "Language follows the address. Currency stays in the browser."
+    },
+    "accessibility": {
+      "title": "Accessibility",
+      "body": "Readable contrast and keyboard use. Write to info@zedairlines.com."
+    }
+  },
+  "footer": {
+    "blurb": "Haiti, the United States, Canada and the Caribbean.",
+    "book": "Book",
+    "travel": "Travel",
+    "company": "Company",
+    "legal": "Legal",
+    "rights": "© 2026 ZED Airlines.",
+    "made": "With ❤️ by",
+    "disclaimer": "Fares and schedules may change.",
+    "contact": "Contact",
+    "social": "Social",
+    "carriage": "Conditions of carriage",
+    "privacy": "Privacy policy",
+    "terms": "Terms of use",
+    "cookies": "Cookies",
+    "accessibility": "Accessibility"
+  },
+  "notFound": {
+    "title": "Not found.",
+    "body": "This link goes nowhere.",
+    "home": "Back to the homepage"
+  }
+}
